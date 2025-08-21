@@ -1,3 +1,4 @@
+
 // so basically, quick reminder that variables are containers used to store data
 public class variables {
     public static void main(String[] args) {
